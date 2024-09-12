@@ -6,7 +6,7 @@
 <!-- Animated Coding Image (changed to a girl) -->
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
-<h3 align="center">A passionate frontend developer </h3>
+<h3 align="center">A passionate frontend developer</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=shanmuga-priyaa&label=Profile%20views&color=0e75b6&style=flat" alt="shanmuga-priyaa" /> 
@@ -27,9 +27,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <!-- Social Media Links -->
-  <a href="https://linkedin.com/in/shanmuga-priyaa-a-p-p-295262229/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="shanmuga-priyaa" height="30" width="40" /></a>
-  <a href="https://github.com/shanmuga-priyaa" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="shanmuga-priyaa" height="30" width="40" /></a>
+  <!-- Social Media Links with Colored Icons -->
+  <a href="https://linkedin.com/in/shanmuga-priyaa-a-p-p-295262229/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="shanmuga-priyaa" height="30" width="40" />
+  </a>
+  <a href="https://github.com/shanmuga-priyaa" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="shanmuga-priyaa" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
