@@ -1,3 +1,5 @@
+![logo](https://github.com/shanmuga-priyaa/shanmuga-priyaa/blob/main/banner%20for%20linkedin%2Cgithub.png)
+
 <h1 align="center">Hi 👋, I'm Shanmuga Priyaa</h1>
 
 <!-- Animated Coding Image -->
