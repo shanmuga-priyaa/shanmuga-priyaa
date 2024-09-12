@@ -27,12 +27,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <!-- Social Media Links with Colored Icons -->
+  <!-- Social Media Links -->
+  <a href="mailto:appshanmugapriyaa@gmail.com" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="gmail" height="30" width="40" />
+  </a>
   <a href="https://linkedin.com/in/shanmuga-priyaa-a-p-p-295262229/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="shanmuga-priyaa" height="30" width="40" />
-  </a>
-  <a href="https://github.com/shanmuga-priyaa" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="shanmuga-priyaa" height="30" width="40" />
   </a>
 </p>
 
@@ -78,18 +78,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a> 
 </p>
-
-<!-- Add animations to elements -->
-<style>
-  h1, h3, p, img, a {
-    animation: fadeIn 2s ease-in-out;
-  }
-
-  @keyframes fadeIn {
-    0% { opacity: 0; }
-    100% { opacity: 1; }
-  }
-</style>
 
 <!-- GitHub Stats -->
 <p align="center">
